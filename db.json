@@ -1,5 +1,5 @@
 {
-todos: [
+"todos": [
   {
     "userId": 1,
     "id": 1,
@@ -1201,7 +1201,7 @@ todos: [
     "completed": false
   }
 ],
-posts: [
+"posts": [
   {
     "userId": 1,
     "id": 1,
@@ -1803,7 +1803,7 @@ posts: [
     "body": "cupiditate quo est a modi nesciunt soluta\nipsa voluptas error itaque dicta in\nautem qui minus magnam et distinctio eum\naccusamus ratione error aut"
   }
 ],
-users: [
+"users": [
   {
     "id": 1,
     "name": "Leanne Graham",
@@ -2034,5 +2034,5 @@ users: [
       "bs": "target end-to-end models"
     }
   }
-],
+]
 }
